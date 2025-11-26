@@ -1,0 +1,15 @@
+{
+  "name": "@bansisavvient/utils",
+  "version": "1.0.0",
+  "description": "Utility helper functions package",
+  "main": "index.js",
+  "author": "bansisavvient",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bansisavvient/utils"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
