@@ -1,13 +1,14 @@
 {
-  "name": "@bansisavvient/utils",
-  "version": "1.0.0",
+  "name": "@bansisavvient/bethany-utils",
+  "version": "1.0.1",
   "description": "Utility helper functions package",
   "main": "index.js",
+  "types": "index.d.ts",
   "author": "bansisavvient",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bansisavvient/utils"
+    "url": "https://github.com/bansisavvient/bethany-utils"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
